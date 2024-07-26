@@ -13,4 +13,4 @@ Run
 npm start
 ```
 
-Demo link: http://localhost:3000/s_100x100,quality_50/imgur/s6zBvJM.jpeg
+After running go to:  http://localhost:3000/s_100x100,quality_50/imgur/s6zBvJM.jpeg
